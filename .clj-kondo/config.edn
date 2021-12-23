@@ -1,0 +1,4 @@
+{:lint-as
+ {morse.handlers/defhandler clojure.core/def
+  morse.handlers/message clojure.core/fn
+  morse.handlers/command clojure.core/fn}}
